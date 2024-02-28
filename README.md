@@ -1,4 +1,4 @@
-# easy-data-validator
+# data-validator
 
 A simple, easy-to-use library providing common data validation functionalities such as email, password strength, and US phone number validation. Designed to be straightforward and meet most basic data validation needs.
 
