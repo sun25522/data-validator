@@ -1,5 +1,5 @@
 {
-  "name": "easy-data-validator",
+  "name": "data-validator",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
