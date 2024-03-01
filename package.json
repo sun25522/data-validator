@@ -13,6 +13,7 @@
   "author": "sun25522",
   "license": "ISC",
   "dependencies": {
-    "validator": "^13.11.0"
+    "validator": "^13.11.0",
+    "nodejs-env-checker": "^1.0.10"
   }
 }
